@@ -1,0 +1,36 @@
+#root{
+    padding: 1rem;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    background-color: #141414;
+}
+
+.header-react-icon{
+    width: 55px;
+    margin-left: 10px;
+}
+
+.header-heading{
+    color: #61DBFB;
+    margin-left: 20px;
+}
+
+.react-facts{
+    font-size: 20px;
+}
+
+li::marker{
+    color: #61DBFB;
+}
+
+main{
+    font-size: 18px;
+    list-style:disc 20px;
+    background-image: url(/src/assets/react.svg);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: right;
+}
