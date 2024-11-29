@@ -1,0 +1,26 @@
+* {    
+    margin: 0;
+}
+
+header{
+    background-color: #F55A5A;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+    padding: 15px;
+}
+
+.heading{
+    margin-left: 10px;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.gloab-icon{
+    width: 30px;
+}
