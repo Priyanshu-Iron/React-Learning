@@ -24,3 +24,82 @@ header{
 .gloab-icon{
     width: 30px;
 }
+
+article{
+    margin: 100px 40px 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+.main-image{
+    width: 220px;
+    height: 280px;
+    border-radius: 5px;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    margin: 19px 60px 0px;
+}
+
+.marker-icon{
+    width: 15px;
+    height: 25px;
+}
+
+.country-name{
+    font-family: Inter;
+    font-weight: 300;
+    color: #2B283A;
+    margin-left: 5px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 22px;
+    height: 25px;
+}
+
+.google-maps-links{
+    height: 28px;
+    color: #918E9B;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 20px;
+    text-decoration: none;
+    border-bottom: 2px solid #918E9B;
+}
+
+.details-headings{
+    display: flex;
+    flex-direction: row;
+}
+
+.contents-heading{
+    font-family: Inter;
+    font-weight: 750;
+    font-size: 34px;
+    margin-top: 20px;
+    letter-spacing: 3px;
+}
+
+.details-contents{
+    display: flex;
+    flex-direction: column;
+}
+
+.date{
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+.text-paragarph{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 20px;
+    margin-top: 12px;
+    width: 700px;
+    line-height: 1.8rem;
+}
