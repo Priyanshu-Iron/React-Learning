@@ -57,3 +57,12 @@ body {
     font-size: 12px;
     color: #2B283A;
 }
+
+.Joke{
+    margin-top: 50px;
+}
+
+.setup{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+}
